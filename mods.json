@@ -1,0 +1,75 @@
+﻿{
+    "version":  "1.0.0",
+    "mods":  [
+                 {
+                     "sha512":  "16b679f6a42549ca3b6bc147de710b2c8ba2d5e4661ed88df22782c05a4a5f6c1163d7b13867687ed91acde0fdfe5a5037d05662431c946865b58396284e7ee7",
+                     "url":  "https://raw.githubusercontent.com/MinSeokA/gyeol/refs/heads/main/mods/fabric-api-0.119.4+1.21.4.jar",
+                     "name":  "fabric-api-0.119.4+1.21.4"
+                 },
+                 {
+                     "sha512":  "7fb475c4a7e7bdf8d0aca4b5798a58a354c51443d5b1fbde3e8cf34dfbf7191ef4238b5f07d08ec9490ec180b371624523326c3ad45d4ed2b2be541de9407e5d",
+                     "url":  "https://raw.githubusercontent.com/MinSeokA/gyeol/refs/heads/main/mods/fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar",
+                     "name":  "fabric-language-kotlin-1.14.2+kotlin.2.4.21"
+                 },
+                 {
+                     "sha512":  "5296c4b0c0be6d5259b985577154c02e6534818465205e6995b5229b26414b423d333199152693118a897f31312e4de051abe28df7d0dd0950c8b649e54a50a0",
+                     "url":  "https://raw.githubusercontent.com/MinSeokA/gyeol/refs/heads/main/mods/iris-fabric-1.8.8+mc1.21.4.jar",
+                     "name":  "iris-fabric-1.8.8+mc1.21.4"
+                 },
+                 {
+                     "sha512":  "e01e23ad33845d081c9b2514c5e3b4bcf860c60e69ce22ec3903477bf463d15b97292f70f3607135b6b878fa252270897ae92f318845da4cedfd3d0ef40a1182",
+                     "url":  "https://raw.githubusercontent.com/MinSeokA/gyeol/refs/heads/main/mods/journeymap-fabric-1.21.4-6.0.0-beta.47.jar",
+                     "name":  "journeymap-fabric-1.21.4-6.0.0-beta.47"
+                 },
+                 {
+                     "sha512":  "bd2175d91c56ca6080df794abe7989b0475ee08ba77577edf8cf85bf30d6e51bae5200c855702b68631a4816b0f132a655c98e70140e9630a90ac645988d6948",
+                     "url":  "https://raw.githubusercontent.com/MinSeokA/gyeol/refs/heads/main/mods/koreanpatch-fabric-1.9.6+mc1.21.3.jar",
+                     "name":  "koreanpatch-fabric-1.9.6+mc1.21.3"
+                 },
+                 {
+                     "sha512":  "247914d5b59c3a66870f1c752fba7b35abb17778f473055d7a3117ba2795827995e3e717899272ab6883c3997fd2fc8031e79de73b552251d940de1cdcb11516",
+                     "url":  "https://raw.githubusercontent.com/MinSeokA/gyeol/refs/heads/main/mods/libIPN-fabric-1.21.4-6.5.1.jar",
+                     "name":  "libIPN-fabric-1.21.4-6.5.1"
+                 },
+                 {
+                     "sha512":  "69470fd4570150042cca6bec420223f9c691ede8434da4ae3004c46d6a07a6b603d93b5a17634549a6283dd57c215026bb62ff32cf2ab098f3cb125f3f4d8af5",
+                     "url":  "https://raw.githubusercontent.com/MinSeokA/gyeol/refs/heads/main/mods/MouseTweaks-fabric-mc1.21.3-2.27.jar",
+                     "name":  "MouseTweaks-fabric-mc1.21.3-2.27"
+                 },
+                 {
+                     "sha512":  "163f7ac4c665092b7bdf6c562cb1d198cfd18e64d446cf6040ef8ba6714e05460f2f389ed50281049f69246886b841588e4c70ee9f7ed2af20abf46fbd606cb8",
+                     "url":  "https://raw.githubusercontent.com/MinSeokA/gyeol/refs/heads/main/mods/skinlayers3d-fabric-1.11.4-mc1.21.4.jar",
+                     "name":  "skinlayers3d-fabric-1.11.4-mc1.21.4"
+                 },
+                 {
+                     "sha512":  "84f33cff29ecdb535cc65d836839003c8739765e0a464e011486ceaf744693b5d40f36c4ea4b117f7f00139c1dbf1b3b0e51170f4055afa03567e4079358a0e9",
+                     "url":  "https://raw.githubusercontent.com/MinSeokA/gyeol/refs/heads/main/mods/sodium-extra-fabric-0.6.1+mc1.21.4.jar",
+                     "name":  "sodium-extra-fabric-0.6.1+mc1.21.4"
+                 },
+                 {
+                     "sha512":  "2c72ca2ddfd27e29ff6c24fccdf6f3d80857bd1014c707017f96cb4a424f94918e53ba21d85f22e3c9171803f8d2c12c99ae857d38d8e85546cc65960b95a2f1",
+                     "url":  "https://raw.githubusercontent.com/MinSeokA/gyeol/refs/heads/main/mods/sodium-fabric-0.6.13+mc1.21.4.jar",
+                     "name":  "sodium-fabric-0.6.13+mc1.21.4"
+                 },
+                 {
+                     "sha512":  "7cffd92b17db25748b1d8af5cffd9f383959f42b7a138f64f6b34aa7441f089e1a4fe84482a190d8b1396dfb3c4deb72dad94c5be5eb04a80d23fdaab89bcbca",
+                     "url":  "https://raw.githubusercontent.com/MinSeokA/gyeol/refs/heads/main/mods/sodiumdynamiclights-fabric-1.0.10-1.21.4.jar",
+                     "name":  "sodiumdynamiclights-fabric-1.0.10-1.21.4"
+                 },
+                 {
+                     "sha512":  "f164ca7dad6baf5e33b3a1b355319ddad264f2b27d2592fd80581d9dcaf35978149d005a159f1e0a116162a31dad4dc553cbaf3af70cc10285f63ca367fe4de5",
+                     "url":  "https://raw.githubusercontent.com/MinSeokA/gyeol/refs/heads/main/mods/spark-1.10.121-fabric.jar",
+                     "name":  "spark-1.10.121-fabric"
+                 },
+                 {
+                     "sha512":  "4c44736033fe6a662155fb46c0e65e1e4d5011d397c671a2ba86ddb8d0cc3e196cd17d01c4270cec465e0d90664b56054f0d6f9cf743a4fa909c984355194df5",
+                     "url":  "https://raw.githubusercontent.com/MinSeokA/gyeol/refs/heads/main/mods/yet_another_config_lib_v3-3.8.2+1.21.4-fabric.jar",
+                     "name":  "yet_another_config_lib_v3-3.8.2+1.21.4-fabric"
+                 },
+                 {
+                     "sha512":  "687859695c6637e6d8d515a07ef4419e94eced50a593dfd4d26fdd35782b042be7a57d8e1cc4e03cf172f0a767e9c853b5ba807b2131775e5e9813da27fc6ceb",
+                     "url":  "https://raw.githubusercontent.com/MinSeokA/gyeol/refs/heads/main/mods/zoomify-2.15.2+1.21.5.jar",
+                     "name":  "zoomify-2.15.2+1.21.5"
+                 }
+             ]
+}
