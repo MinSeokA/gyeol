@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "notices": [
+    {
+      "date": "2026-10-29",
+      "title": "Gyeol Launcher v1.0.0 정식 출시!",
+      "pinned": true
+    },
+    {
+      "date": "2026-10-27",
+      "title": "🛠️ 정기 점검 안내",
+      "content": "10월 30일 02:00 ~ 04:00 서버 점검이 예정되어 있습니다.",
+      "pinned": false
+    }
+  ]
+}
