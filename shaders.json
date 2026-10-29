@@ -1,0 +1,36 @@
+﻿{
+    "default":  "",
+    "version":  "1.0.0",
+    "shaders":  [
+                    {
+                        "sha512":  "defa91212ed082e3e25d349977cbeaf771ef6f8360e1bad8092c25ff73a967c8fcbb3673300cca6bcfb11732bad9d3a0ae023c111455a55ee28e55982d191cb9",
+                        "url":  "https://raw.githubusercontent.com/MinSeokA/gyeol/refs/heads/main/shaders/BSL_v10.1.1.zip",
+                        "name":  "BSL_v10.1.1",
+                        "file":  "BSL_v10.1.1.zip"
+                    },
+                    {
+                        "sha512":  "45304b1d7862afdb2177b7e6226fc9c6737911d17a4ad46cc9c519ca4deb935f05072cd337cd8b19a15bb8062b57b54eceec7bdee4cd572d94858e2946d37d85",
+                        "url":  "https://raw.githubusercontent.com/MinSeokA/gyeol/refs/heads/main/shaders/ComplementaryReimagined_r5.9.3.zip",
+                        "name":  "ComplementaryReimagined_r5.9.3",
+                        "file":  "ComplementaryReimagined_r5.9.3.zip"
+                    },
+                    {
+                        "sha512":  "a085d1d8cda67cd17a2b414eeba48bbd809da069f269bab46246235ec8fe714a275013c70d0504527b0987d810deddddba4564332414ab3b3bd7435932ff808c",
+                        "url":  "https://raw.githubusercontent.com/MinSeokA/gyeol/refs/heads/main/shaders/ComplementaryUnbound_r5.9.3.zip",
+                        "name":  "ComplementaryUnbound_r5.9.3",
+                        "file":  "ComplementaryUnbound_r5.9.3.zip"
+                    },
+                    {
+                        "sha512":  "3c6227e2de337cf2608b5aa17c16dc476f73b67e131721d5ca031a0e26f194db3f4e6b507a659c0c5c5b65cd7e09c34f21ff3340689328e04475b71c2ec6ae4a",
+                        "url":  "https://raw.githubusercontent.com/MinSeokA/gyeol/refs/heads/main/shaders/Just Colored Lighting (1.0.2).zip",
+                        "name":  "Just Colored Lighting (1.0.2)",
+                        "file":  "Just Colored Lighting (1.0.2).zip"
+                    },
+                    {
+                        "sha512":  "1103f42fe599ac6634675aa58e17de94b77b89ba148f30f3b4168eaebfe9e6ebc7fec76968c33b145d64e3234746efe3a932e0c2c46785f7e1b5b8bda8d355f9",
+                        "url":  "https://raw.githubusercontent.com/MinSeokA/gyeol/refs/heads/main/shaders/Kappa_v5.3.zip",
+                        "name":  "Kappa_v5.3",
+                        "file":  "Kappa_v5.3.zip"
+                    }
+                ]
+}
